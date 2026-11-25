@@ -1,0 +1,19 @@
+{
+  "name": "Mindiw Digital",
+  "short_name": "Mindiw Digital",
+  "description": "Mindiw Digital provides web development, video editing, graphic design and custom digital solutions in Sri Lanka.",
+  "start_url": "https://mindiwdigital.github.io/Mindiw_Digital/",
+  "scope": "https://mindiwdigital.github.io/Mindiw_Digital/",
+  "display": "standalone",
+  "background_color": "#07152d",
+  "theme_color": "#07152d",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "logo.jpg",
+      "sizes": "any",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
